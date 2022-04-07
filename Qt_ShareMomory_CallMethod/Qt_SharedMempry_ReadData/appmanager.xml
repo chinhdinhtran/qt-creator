@@ -1,0 +1,13 @@
+<!DOCTYPE node PUBLIC "-//freedesktop//DTD D-BUS Object Introspection 1.0//EN"
+"http://www.freedesktop.org/standards/dbus/1.0/introspect.dtd">
+<node name="/">
+
+    <interface name="vn.com.chingio.appInterface">
+        <method name="methodDbusCall">
+            <arg name="param1" type="i" direction="in" />
+            <arg name="param1" type="s" direction="in" />
+            <arg name="response" type="s" direction="out" />
+        </method>
+    </interface>
+
+</node>

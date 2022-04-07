@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.11.2, 2022-04-06T20:34:10. -->
+<!-- Written by QtCreator 4.11.2, 2022-04-07T22:28:31. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -285,8 +285,9 @@
     </valuelist>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/chinhtd/Documents/Qt Creator/Demo/Qt_SharedMemory/Qt_SharedMemory/SharedMemoryRead/SharedMemoryRead.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/chinhtd/Documents/Qt Creator/Demo/Qt_SharedMemory/Qt_SharedMemory/SharedMemoryRead/SharedMemoryRead.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">SharedMemoryRead2</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/chinhtd/9h_master/Qt_SharedMemory/SharedMemoryRead/SharedMemoryRead.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/chinhtd/9h_master/Qt_SharedMemory/SharedMemoryRead/SharedMemoryRead.pro</value>
     <value type="QString" key="RunConfiguration.Arguments"></value>
     <value type="bool" key="RunConfiguration.Arguments.multi">false</value>
     <value type="QString" key="RunConfiguration.OverrideDebuggerStartup"></value>

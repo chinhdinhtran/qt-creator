@@ -15,7 +15,7 @@ HMIController::HMIController(QObject *parent)
     }
     if(mSharedMemWrite.create(sizeof(SHARE_INFO)))
     {
-        LOG_INFO << "create shared mem";
+        LOG_INFO << "create shared memory";
     }
 }
 
